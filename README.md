@@ -1,5 +1,5 @@
-#Gomez Corbalan,Juan Cruz
-#45059711
+# Gomez Corbalan,Juan Cruz
+# 45059711
 ## ¿String es una tipo por valor o un tipo por referencia?
 String es un tipo por referencia en C#.
 
