@@ -105,13 +105,13 @@ do
     }while(!int.TryParse(ingreso1,out num1) || !int.TryParse(ingreso2,out num2));
     if (num1 >= num2)
     {
-        Console.WriteLine("Maximo:"+num1);
-        Console.WriteLine("Minimo:"+num2);
+        Console.WriteLine("MAXIMO:"+num1);
+        Console.WriteLine("MINIMO:"+num2);
     }
     else
     {
-        Console.WriteLine("Maximo:"+num2);
-        Console.WriteLine("Minimo:"+num1);
+        Console.WriteLine("MAXIMO:"+num2);
+        Console.WriteLine("MINIMO:"+num1);
     }
 
     Console.WriteLine("¿Desea seguir operando?  1:Si");
